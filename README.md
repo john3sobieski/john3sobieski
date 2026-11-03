@@ -2,7 +2,17 @@
 
 ### Believe, live, enjoy
 
-- 🔭 I'm currently working on: **Offline audio player for Android and Windows / Linux**
+- 🔭 I'm currently working on: **Radiant: Offline audio player for Android and Windows / Linux**
+
+<p align="left">
+  <a href="https://github.com/john3sobieski/radiant-audio-player">
+    <img src="https://img.shields.io/badge/Mobile_Version-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Version"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/john3sobieski/radiant-audio-player-pc">
+    <img src="https://img.shields.io/badge/💻_Desktop_Version-Windows_%2F_Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Desktop Version"/>
+  </a>
+</p>
 
 - ⚡ Fun fact: **I can fly the Airbus A330-300**
 
