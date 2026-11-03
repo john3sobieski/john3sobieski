@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jan lll Sobieski
+# Hi 👋, I'm human!
 
 ### Believe, live, enjoy
 
