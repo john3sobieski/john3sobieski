@@ -20,10 +20,9 @@
 
 <h3 align="left">🤍 Languages and Tools:</h3>
 
-<table width="100%">
-  <colgroup><col width="49%"/><col width="51%"/></colgroup>
+<table width="100%" border="0" style="border: 0; border-collapse: collapse;">
   <tr>
-    <td width="49%" valign="top" style="border-right: 1px solid #30363d; padding-right: 20px;">
+    <td width="50%" valign="top" style="border: 0; border-right: 1px solid #30363d; padding-right: 16px;">
       <h4>🌐 Web Development</h4>
       <p align="left">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/></a>
@@ -46,7 +45,7 @@
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a>
       </p>
     </td>
-    <td width="51%" valign="top" style="padding-left: 76px;">
+    <td width="50%" valign="top" style="border: 0; padding-left: 16px;">
       <h4>🗄️ Database</h4>
       <p align="left">
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/></a>
