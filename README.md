@@ -20,45 +20,17 @@
 
 <h3 align="left">🤍 Languages and Tools:</h3>
 
-<table width="90%" style="border-collapse: separate; border-spacing: 0; table-layout: fixed;">
-  <tr>
-    <td width="50%" valign="top" style="border: 0; border-right: 1px solid #30363d; padding-right: 16px;">
-      <h4>🌐 Web Development</h4>
-      <p align="left">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></a>
-        <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a>
-      </p>
-      <h4>💻 Programming &amp; Scripting</h4>
-      <p align="left">
-        <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40"/></a>
-        <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/></a>
-        <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/></a>
-      </p>
-      <h4>📱 Platforms &amp; Development Tools</h4>
-      <p align="left">
-        <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/></a>
-        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" height="40"/></a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a>
-      </p>
-    </td>
-    <td width="50%" valign="top" style="border: 0; padding-left: 16px;">
-      <h4>🗄️ Database</h4>
-      <p align="left">
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/></a>
-      </p>
-      <h4>🎨 Design</h4>
-      <p align="left">
-        <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="40" height="40"/></a>
-      </p>
-      <h4>🤖 AI Coding Assistants</h4>
-      <p align="left"><a href="https://openai.com/codex/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" alt="Codex" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude" alt="Claude" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://www.trae.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/trae" alt="TRAE" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://cursor.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cursor" alt="Cursor" width="40" height="40"/></a></p>
-    </td>
-  </tr>
-</table>
+<h4>🌐 Web Development</h4>
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a></p>
+
+<h4>💻 Programming &amp; Scripting</h4>
+<p align="left"><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="40" height="40"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/></a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/></a></p>
+
+<h4>📱 Platforms &amp; Development Tools</h4>
+<p align="left"><a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/></a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a></p>
+
+<h4>🗄️ Database &nbsp; 🎨 Design &nbsp; 🤖 AI Coding Assistants</h4>
+<p align="left"><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/></a> &nbsp;&nbsp; <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="40" height="40"/></a> &nbsp;&nbsp; <a href="https://openai.com/codex/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" alt="Codex" width="40" height="40"/></a> <a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/claude" alt="Claude" width="40" height="40"/></a> <a href="https://www.trae.ai/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/trae" alt="TRAE" width="40" height="40"/></a> <a href="https://cursor.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cursor" alt="Cursor" width="40" height="40"/></a></p>
 
 ---
 
