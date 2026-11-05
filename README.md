@@ -20,9 +20,9 @@
 
 <h3 align="left">🤍 Languages and Tools:</h3>
 
-<table width="100%" border="0" style="border: 0; border-collapse: collapse;">
+<table width="100%">
   <tr>
-    <td width="50%" valign="top" style="border: 0; border-right: 1px solid #30363d; padding-right: 16px;">
+    <td width="50%" valign="top">
       <h4>🌐 Web Development</h4>
       <p align="left">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/></a>
@@ -45,7 +45,7 @@
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a>
       </p>
     </td>
-    <td width="50%" valign="top" style="border: 0; padding-left: 16px;">
+    <td width="50%" valign="top">
       <h4>🗄️ Database</h4>
       <p align="left">
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/></a>
@@ -59,6 +59,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🗣️ Languages
