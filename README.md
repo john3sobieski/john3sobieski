@@ -6,7 +6,7 @@
 
 ## 📌 Radiant (Dekstop / Andorid)
 
-<p align="left">
+<p align="central">
   <a href="https://github.com/john3sobieski/radiant-audio-player">
     <img src="./profile/pin-radiant-audio-player.svg" alt="Radiant for Android" />
   </a>
