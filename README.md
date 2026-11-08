@@ -4,21 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=john3sobieski&label=Profile%20views&color=0e75b6&style=flat" alt="John III Sobieski" />
 </p>
 
-### Believe, live, enjoy
-
-- 🔭 I'm currently working on: **Radiant: Offline audio player for Android and Windows / Linux**
+## 📌 Radiant (Dekstop / Andorid)
 
 <p align="left">
   <a href="https://github.com/john3sobieski/radiant-audio-player">
-    <img src="https://img.shields.io/badge/Mobile_Version-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Version"/>
+    <img src="./profile/pin-radiant-audio-player.svg" alt="Radiant for Android" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/john3sobieski/radiant-audio-player-pc">
-    <img src="https://img.shields.io/badge/💻_Desktop_Version-Windows_%2F_Linux-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Desktop Version"/>
+    <img src="./profile/pin-radiant-audio-player-pc.svg" alt="Radiant for Windows / Linux" />
   </a>
 </p>
-
-- ⚡ Fun fact: **I can fly the Airbus A330-300**
 
 ---
 
