@@ -30,6 +30,14 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
+      - name: Generate stats card
+        uses: Pranesh-2005/github-readme-stats-fast-action@v1.3
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide=stars&prs_merged&include_all_commits=true&rank_icon=github&ring_color=FFD700&title_color=FFD700&text_color=FFD700&icon_color=FFD700&border_color=FFD700&bg_color=002137
+          path: profile/stats.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+
       - name: Commit cards
         run: |
           git config user.email "github-actions@users.noreply.github.com"

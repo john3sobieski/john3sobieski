@@ -54,15 +54,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="./profile/streak.svg" alt="GitHub streak" />
-  <img src="./profile/top-langs.svg" alt="Top languages" />
-</p>
-
----
-
 ### 🗣️ Languages
 
 <table width="100%">
@@ -95,3 +86,15 @@
     </tr>
   </tbody>
 </table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="./profile/stats.svg" alt="GitHub stats" />
+</p>
+<p align="left">
+  <img src="./profile/streak.svg" alt="GitHub streak" />
+  <img src="./profile/top-langs.svg" alt="Top languages" />
+</p>
