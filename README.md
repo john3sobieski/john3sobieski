@@ -54,7 +54,7 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="left">
   <img src="./profile/streak.svg" alt="GitHub streak" />
