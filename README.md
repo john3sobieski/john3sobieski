@@ -36,14 +36,14 @@
 <h4>📱 Platforms &amp; Development Tools</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,androidstudio,kotlin,arduino,cloudflare,md,windows,linux,mint,ubuntu,obsidian,powershell,sqlite,vscode,visualstudio&perline=5"/>
+      <img src="https://skillicons.dev/icons?i=github,git,githubactions,kotlin,arduino,cloudflare,md,windows,linux,mint,ubuntu,powershell,sqlite,vscode,visualstudio&perline=5"/>
   </a>
 </p>
 
 <h4>🧩 Others</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=discord,ae,pr,ps&perline=4"/>
+      <img src="https://skillicons.dev/icons?i=discord,ae,pr,ps,obsidian,notion&perline=6"/>
   </a>
 </p>
 
