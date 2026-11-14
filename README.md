@@ -43,7 +43,7 @@
 <h4>🧩 Others</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=discord,ae,pr,ps,obsidian,notion&perline=6"/>
+      <img src="https://skillicons.dev/icons?i=discord,instagram,ae,pr,ps,obsidian,notion&perline=6"/>
   </a>
 </p>
 
