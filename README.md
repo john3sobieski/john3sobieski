@@ -36,7 +36,7 @@
 <h4>📱 Platforms &amp; Development Tools</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,git,githubactions,kotlin,arduino,cloudflare,md,windows,linux,kali,mint,ubuntu,powershell,sqlite,vscode,visualstudio&perline=6"/>
+      <img src="https://skillicons.dev/icons?i=github,git,githubactions,kotlin,arduino,cloudflare,md,windows,linux,kali,mint,debian,ubuntu,powershell,bash,sqlite,sublime,vscode,visualstudio&perline=6"/>
   </a>
 </p>
 
