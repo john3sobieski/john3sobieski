@@ -2,6 +2,9 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=john3sobieski&label=Profile%20views&color=0e75b6&style=flat" alt="John III Sobieski" />
+  <a href="https://discord.com/users/661912805313871891">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjohn3sobieski%2Fjohn3sobieski%2Fmain%2Fprofile%2Fdiscord-status.json&style=flat&cacheSeconds=300" alt="Discord status" />
+  </a>
 </p>
 
 ## 📌 Radiant (Dekstop / Andorid)
