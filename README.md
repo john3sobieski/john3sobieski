@@ -21,7 +21,7 @@
 ---
 
 <details>
-<summary><h3>🤍 Languages and Tools</h3></summary>
+<summary><b>🤍 Languages and Tools</b></summary>
 
 <br />
 
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-<summary><h3>🗣️ Languages</h3></summary>
+<summary><b>🗣️ Languages</b></summary>
 
 <br />
 
@@ -94,7 +94,7 @@
 </details>
 
 <details>
-<summary><h3>📊 GitHub Stats</h3></summary>
+<summary><b>📊 GitHub Stats</b></summary>
 
 <br />
 
