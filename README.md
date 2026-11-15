@@ -27,53 +27,43 @@
 
 <h4>🌐 Web Development</h4>
 <p align="left">
-  <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js"/>
+  <a href="https://builder.syvixor.com/">
+        <img src="https://skills.syvixor.com/api/icons?i=html,css3,javascript&perline=3&radius=45" alt="Skill Icons" />
     </a>
 </p>
 
 <h4>💻 Programming &amp; Scripting</h4>
 <p align="left">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp,rust,py"/>
+  <a href="https://builder.syvixor.com/">
+      <img src="https://skills.syvixor.com/api/icons?i=cpp,rust,python&perline=3&radius=45" alt="Skill Icons" />
   </a>
 </p>
 
 <h4>📱 Platforms &amp; Development Tools</h4>
 <p align="left">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,git,githubactions,kotlin,arduino,cloudflare,md,apple,windows,linux,kali,mint,debian,ubuntu,powershell,bash,sqlite,sublime,vscode,visualstudio&perline=7"/>
+  <a href="https://builder.syvixor.com/">
+      <img src="https://skills.syvixor.com/api/icons?i=android,apple,arduino,github,gitbash,githubactions,git,githubpages,kotlin,cloudflare,resend,markdown,ios,windows,linux,kalilinux,burpsuite,linuxmint,ubuntu,debian,powershell,bash,sqlite,sublime,visualstudiocode,visualstudio,obsidian,notion&perline=10&radius=45" alt="Skill Icons" />
   </a>
 </p>
 
 <h4>🤖 AI</h4>
 <p align="left">
-  <a href="https://marwin1991.github.io/profile-technology-icons">
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/codex.png" alt="Codex" title="Codex"/>
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cursor.png" alt="Cursor" title="Cursor"/>
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/claude_code.png" alt="Claude Code" title="Claude Code"/>
+  <a href="https://builder.syvixor.com/">
+    <img src="https://skills.syvixor.com/api/icons?i=perplexity,cursor,claudeai,chatgpt,codex,googlegemini,cline,trae&perline=8&radius=45" alt="Skill Icons" />
   </a>
 </p>
 
 <h4>🧩 Others</h4>
 <p align="left">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ae,pr,ps,obsidian,notion&perline=6"/>
+  <a href="https://builder.syvixor.com/">
+      <img src="https://skills.syvixor.com/api/icons?i=adobe,adobeacrobat,adobeexpress,adobelightroom,adobephotoshop,adobepremierepro,canva,capcut,googledocs,googledrive,googleforms,googlesheets,googleslides,letterboxd,microsoft365copilot,microsoftexcel,microsoftforms,microsoftoffice,microsoftonenote,microsoftoutlook,microsoftpowerpoint,microsoftword,obs,proton,protondrive,protonmail,protonpass,scratch,veracrypt&perline=10&radius=45" alt="Skill Icons" />
   </a>
 </p>
 
 <h4>🌍 Social media</h4>
 <p align="left">
-  <a href="https://marwin1991.github.io/profile-technology-icons">
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/x.png" alt="X" title="X"/>
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/instagram.png" alt="Instagram" title="Instagram"/>
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/youtube.png" alt="YouTube" title="YouTube"/>
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tiktok.png" alt="TikTok" title="TikTok"/>
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/reddit.png" alt="Reddit" title="Reddit"/>
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/discord.png" alt="Discord" title="Discord"/>
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/telegram.png" alt="Telegram" title="Telegram"/>
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/whatsapp.png" alt="WhatsApp" title="WhatsApp"/>
-    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/twitch.png" alt="Twitch" title="Twitch"/>
+  <a href="https://builder.syvixor.com/">
+    <img src="https://skills.syvixor.com/api/icons?i=instagram,whatsapp,telegram,discord,discordjs,x,reddit,tiktok,youtube&perline=10&radius=45" alt="Skill Icons" />
   </a>
 </p>
 
