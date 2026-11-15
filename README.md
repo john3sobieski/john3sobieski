@@ -20,7 +20,10 @@
 
 ---
 
-<h3 align="left">🤍 Languages and Tools:</h3>
+<details>
+<summary><b>🤍 Languages and Tools</b></summary>
+
+<br />
 
 <h4>🌐 Web Development</h4>
 <p align="left">
@@ -50,9 +53,12 @@
   </a>
 </p>
 
----
+</details>
 
-### 🗣️ Languages
+<details>
+<summary><b>🗣️ Languages</b></summary>
+
+<br />
 
 <table width="100%">
   <thead>
@@ -85,9 +91,12 @@
   </tbody>
 </table>
 
----
+</details>
 
-### 📊 GitHub Stats
+<details>
+<summary><b>📊 GitHub Stats</b></summary>
+
+<br />
 
 <p align="left">
   <img src="./profile/stats.svg" alt="GitHub stats" />
@@ -96,3 +105,5 @@
   <img src="./profile/streak.svg" alt="GitHub streak" />
   <img src="./profile/top-langs.svg" alt="Top languages" />
 </p>
+
+</details>
