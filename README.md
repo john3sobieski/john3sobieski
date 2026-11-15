@@ -46,10 +46,34 @@
   </a>
 </p>
 
+<h4>🤖 AI</h4>
+<p align="left">
+  <a href="https://marwin1991.github.io/profile-technology-icons">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/codex.png" alt="Codex" title="Codex"/>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cursor.png" alt="Cursor" title="Cursor"/>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/claude_code.png" alt="Claude Code" title="Claude Code"/>
+  </a>
+</p>
+
 <h4>🧩 Others</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=discord,ae,pr,ps,obsidian,notion&perline=6"/>
+      <img src="https://skillicons.dev/icons?i=ae,pr,ps,obsidian,notion&perline=6"/>
+  </a>
+</p>
+
+<h4>🌍 Social media</h4>
+<p align="left">
+  <a href="https://marwin1991.github.io/profile-technology-icons">
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/x.png" alt="X" title="X"/>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/instagram.png" alt="Instagram" title="Instagram"/>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/youtube.png" alt="YouTube" title="YouTube"/>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tiktok.png" alt="TikTok" title="TikTok"/>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/reddit.png" alt="Reddit" title="Reddit"/>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/discord.png" alt="Discord" title="Discord"/>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/telegram.png" alt="Telegram" title="Telegram"/>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/whatsapp.png" alt="WhatsApp" title="WhatsApp"/>
+    <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/twitch.png" alt="Twitch" title="Twitch"/>
   </a>
 </p>
 
