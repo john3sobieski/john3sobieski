@@ -1,7 +1,13 @@
 # Hi 👋, I'm human!
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=john3sobieski&label=Profile%20views&color=0e75b6&style=flat" alt="John III Sobieski" />
+  <img src="https://komarev.com/ghpvc/?username=john3sobieski&label=Profile%20views&color=000000&style=flat" alt="John III Sobieski" />
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ajohn3sobieski">
+    <img src="https://img.shields.io/github/issues-search?query=author%3Ajohn3sobieski%20is%3Apr&label=Pull%20requests&color=000000&style=flat" alt="Pull requests" />
+  </a>
+  <a href="https://github.com/issues?q=is%3Aissue+author%3Ajohn3sobieski">
+    <img src="https://img.shields.io/github/issues-search?query=author%3Ajohn3sobieski%20is%3Aissue&label=Issues&color=000000&style=flat" alt="Issues" />
+  </a>
   <a href="https://discord.com/users/661912805313871891">
     <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjohn3sobieski%2Fjohn3sobieski%2Fmain%2Fprofile%2Fdiscord-status.json&style=flat&cacheSeconds=300" alt="Discord status" />
   </a>
@@ -112,9 +118,6 @@
 
 <br />
 
-<p align="left">
-  <img src="./profile/stats.svg" alt="GitHub stats" />
-</p>
 <p align="left">
   <img src="./profile/streak.svg" alt="GitHub streak" />
   <img src="./profile/top-langs.svg" alt="Top languages" />
