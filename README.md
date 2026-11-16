@@ -119,8 +119,8 @@
 <br />
 
 <p align="left">
-  <img src="./profile/streak.svg" alt="GitHub streak" />
   <img src="./profile/top-langs.svg" alt="Top languages" />
+  <img src="./profile/streak.svg" alt="GitHub streak" />
 </p>
 
 </details>
