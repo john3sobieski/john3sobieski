@@ -45,14 +45,14 @@
   </a>
 </p>
 
-<h4>📱 Platforms &amp; Development Tools</h4>
+<h4>📱 Platforms &amp; Tools</h4>
 <p align="left">
   <a href="https://builder.syvixor.com/">
       <img src="https://skills.syvixor.com/api/icons?i=android,apple,arduino,github,gitbash,githubactions,git,githubpages,kotlin,cloudflare,resend,markdown,ios,windows,linux,kalilinux,burpsuite,linuxmint,ubuntu,debian,powershell,bash,sqlite,sublime,visualstudiocode,visualstudio,obsidian,notion&perline=10&radius=45" alt="Skill Icons" />
   </a>
 </p>
 
-<h4>🤖 AI</h4>
+<h4>🤖 LLM / IDE</h4>
 <p align="left">
   <a href="https://builder.syvixor.com/">
     <img src="https://skills.syvixor.com/api/icons?i=perplexity,cursor,claudeai,chatgpt,codex,googlegemini,cline,trae&perline=8&radius=45" alt="Skill Icons" />
