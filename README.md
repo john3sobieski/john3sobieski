@@ -13,7 +13,7 @@
   </a>
 </p>
 
-## 📌 Radiant (Dekstop / Andorid)
+## 📌 Radiant (Android / Dekstop)
 
 <p align="center">
   <a href="https://github.com/john3sobieski/radiant-audio-player">
