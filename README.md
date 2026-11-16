@@ -48,28 +48,28 @@
 <h4>📱 Platforms &amp; Tools</h4>
 <p align="left">
   <a href="https://builder.syvixor.com/">
-      <img src="https://skills.syvixor.com/api/icons?i=android,apple,arduino,github,gitbash,githubactions,git,githubpages,kotlin,cloudflare,resend,markdown,ios,windows,linux,kalilinux,burpsuite,linuxmint,ubuntu,debian,powershell,bash,sqlite,sublime,visualstudiocode,visualstudio,obsidian,notion&perline=10&radius=45" alt="Skill Icons" />
+      <img src="https://skills.syvixor.com/api/icons?i=windows,linux,debian,ubuntu,linuxmint,kalilinux,burpsuite,android,apple,ios,git,github,gitbash,githubactions,githubpages,bash,powershell,visualstudio,visualstudiocode,sublime,obsidian,notion,markdown,sqlite,cloudflare,resend,arduino,kotlin&perline=10&radius=45" alt="Skill Icons" />
   </a>
 </p>
 
 <h4>🤖 LLM / IDE</h4>
 <p align="left">
   <a href="https://builder.syvixor.com/">
-    <img src="https://skills.syvixor.com/api/icons?i=perplexity,cursor,claudeai,chatgpt,codex,googlegemini,cline,trae&perline=8&radius=45" alt="Skill Icons" />
+    <img src="https://skills.syvixor.com/api/icons?i=claudeai,chatgpt,codex,googlegemini,perplexity,cursor,cline,trae&perline=8&radius=45" alt="Skill Icons" />
   </a>
 </p>
 
 <h4>🧩 Others</h4>
 <p align="left">
   <a href="https://builder.syvixor.com/">
-      <img src="https://skills.syvixor.com/api/icons?i=adobe,adobeacrobat,adobeexpress,adobelightroom,adobephotoshop,adobepremierepro,canva,capcut,googledocs,googledrive,googleforms,googlesheets,googleslides,letterboxd,microsoft365copilot,microsoftexcel,microsoftforms,microsoftoffice,microsoftonenote,microsoftoutlook,microsoftpowerpoint,microsoftword,obs,proton,protondrive,protonmail,protonpass,scratch,veracrypt&perline=10&radius=45" alt="Skill Icons" />
+      <img src="https://skills.syvixor.com/api/icons?i=adobe,adobephotoshop,adobepremierepro,adobelightroom,adobeexpress,adobeacrobat,canva,capcut,microsoftoffice,microsoftword,microsoftexcel,microsoftpowerpoint,microsoftonenote,microsoftoutlook,microsoftforms,microsoft365copilot,googledrive,googledocs,googlesheets,googleslides,googleforms,obs,scratch,letterboxd,proton,protonmail,protondrive,protonpass,veracrypt&perline=10&radius=45" alt="Skill Icons" />
   </a>
 </p>
 
 <h4>🌍 Social media</h4>
 <p align="left">
   <a href="https://builder.syvixor.com/">
-    <img src="https://skills.syvixor.com/api/icons?i=instagram,whatsapp,telegram,discord,discordjs,x,reddit,tiktok,youtube&perline=10&radius=45" alt="Skill Icons" />
+    <img src="https://skills.syvixor.com/api/icons?i=instagram,whatsapp,telegram,discord,x,tiktok,discordjs,reddit,youtube&perline=10&radius=45" alt="Skill Icons" />
   </a>
 </p>
 
