@@ -48,7 +48,7 @@
 <h4>📱 Platforms &amp; Tools</h4>
 <p align="left">
   <a href="https://builder.syvixor.com/">
-      <img src="https://skills.syvixor.com/api/icons?i=windows,linux,gentoo,fedora,voidlinux,debian,ubuntu,linuxmint,kalilinux,burpsuite,veracrypt,virtualbox,android,apple,ios,git,github,gitbash,githubactions,githubpages,bash,powershell,visualstudio,visualstudiocode,sublime,obsidian,notion,markdown,sqlite,cloudflare,resend,arduino,kotlin,brave,edge,googlechrome,chromium,mullvadvpn,firefox&perline=10&radius=45" alt="Skill Icons" />
+      <img src="https://skills.syvixor.com/api/icons?i=windows,linux,gentoo,fedora,cachyos,voidlinux,debian,ubuntu,linuxmint,kalilinux,burpsuite,veracrypt,virtualbox,android,apple,ios,git,github,gitbash,githubactions,githubpages,bash,powershell,balenaetcher,visualstudio,visualstudiocode,sublime,obsidian,notion,markdown,sqlite,cloudflare,resend,arduino,kotlin,brave,edge,googlechrome,chromium,mullvadvpn,firefox,obs&perline=12&radius=45" alt="Skill Icons" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 <h4>🧩 Others</h4>
 <p align="left">
   <a href="https://builder.syvixor.com/">
-      <img src="https://skills.syvixor.com/api/icons?i=adobe,adobephotoshop,adobepremierepro,adobelightroom,adobeexpress,adobeacrobat,canva,capcut,microsoftoffice,microsoftword,microsoftexcel,microsoftpowerpoint,microsoftonenote,microsoftoutlook,microsoftforms,microsoft365copilot,googledrive,googledocs,googlesheets,googleslides,googleforms,obs,scratch,letterboxd,proton,protonmail,protondrive,protonpass&perline=10&radius=45" alt="Skill Icons" />
+      <img src="https://skills.syvixor.com/api/icons?i=adobe,adobephotoshop,adobepremierepro,adobelightroom,adobeexpress,adobeacrobat,canva,capcut,microsoftoffice,microsoftword,microsoftexcel,microsoftpowerpoint,microsoftonenote,microsoftoutlook,microsoftforms,microsoft365copilot,googledrive,googledocs,googlesheets,googleslides,googleforms,scratch,letterboxd,proton,protonmail,protondrive,protonpass&perline=10&radius=45" alt="Skill Icons" />
   </a>
 </p>
 
